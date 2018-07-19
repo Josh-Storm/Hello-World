@@ -3,3 +3,4 @@ My first repository.
 
 Learning to code in Python, first time using GitHub.
 This is really cool.
+These changes of documents are easy to understand.
