@@ -7,3 +7,6 @@ These changes of documents are easy to understand.
 
 This is how to do all of the above:
 https://guides.github.com/activities/hello-world/ 
+
+
+This is a test of branching.
